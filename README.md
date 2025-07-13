@@ -8,7 +8,7 @@ Um jogo de estratégia em navegador inspirado na lendária batalha entre os Hor�
 
 Você pode jogar o jogo diretamente no seu navegador através deste link:
 
-**[Clique aqui para jogar](https://LuisCarlosEiras.github.io/HoraciosCuriaciosapp)** 
+**[Clique aqui para jogar](https://LuisCarlosEiras.github.io/H-Capp)** 
 
 
 ## Funcionalidades Principais
